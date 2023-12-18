@@ -25,7 +25,7 @@ After installation, you can customize the theme to fit your preferences:
 
 ## Contributing
 
-If you have suggestions for how Hyper Theme could be improved, or want to report a bug, please open an issue on our GitHub repository.
+If you have suggestions for how Hyper Theme could be improved, or want to report a bug, please open an issue on our [GitHub repository](https://github.com/JacobPantuso/hyper-theme).
 
 ## License
 
@@ -37,7 +37,7 @@ This theme is released under the [MIT License](https://github.com/JacobPantuso/h
 
 ## Support
 
-For support, questions, or feedback, please open an issue in our GitHub repository.
+For support, questions, or feedback, please open an issue in our [GitHub repository](https://github.com/JacobPantuso/hyper-theme).
 
 ---
 
