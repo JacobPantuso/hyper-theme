@@ -29,7 +29,7 @@ If you have suggestions for how Hyper Theme could be improved, or want to report
 
 ## License
 
-This theme is released under the [MIT License](LICENSE).
+This theme is released under the [MIT License](https://github.com/JacobPantuso/hyper-theme/blob/main/LICENSE).
 
 ## Credits
 
