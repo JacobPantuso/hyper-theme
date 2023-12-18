@@ -12,8 +12,8 @@
         "activityBar.activeBackground": "#19133b",
         "activityBar.background": "#1b1446",
         "titleBar.activeBackground": "#1b1446",
-        "menubar.selectionBackground": "#ff0000",
-        "statusBar.background": "#1b1446"
+        "menubar.selectionBackground": "#6f00ff",
+        "statusBar.background": "#1b1446",
     },
     "tokenColors": [
         {

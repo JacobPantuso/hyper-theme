@@ -4,7 +4,7 @@
   "publisher": "JacobPantuso",
   "icon": "img/hyper.png",
   "description": "A super lightweight VSCode theme with a dynamic visual palette combining bold contrasts and electrifying accents to enhance your coding experience.",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.85.0"
   },
