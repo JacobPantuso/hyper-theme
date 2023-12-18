@@ -1,0 +1,23 @@
+{
+  "name": "hyper-theme",
+  "displayName": "Hyper",
+  "publisher": "JacobPantuso",
+  "icon": "img/hyper.png",
+  "description": "A super lightweight VSCode theme with a dynamic visual palette combining bold contrasts and electrifying accents to enhance your coding experience.",
+  "version": "0.0.2",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Hyper",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Hyper-color-theme.json"
+      }
+    ]
+  }
+}
