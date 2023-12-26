@@ -1,4 +1,8 @@
-# Hyper Theme for Visual Studio Code
+<p align="center">
+  <img src="https://github.com/JacobPantuso/hyper-theme/blob/main/img/hyper.png?raw=true"/>
+</p>
+
+<h1 align="center">Hyper Theme for Visual Studio Code</h1>
 
 ## Introduction
 
@@ -38,7 +42,3 @@ This theme is released under the [MIT License](https://github.com/JacobPantuso/h
 ## Support
 
 For support, questions, or feedback, please open an issue in our [GitHub repository](https://github.com/JacobPantuso/hyper-theme).
-
----
-
-Enjoy coding with Hyper Theme for Visual Studio Code!
