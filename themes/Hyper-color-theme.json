@@ -14,6 +14,11 @@
         "titleBar.activeBackground": "#1b1446",
         "menubar.selectionBackground": "#6f00ff",
         "statusBar.background": "#1b1446",
+        "button.background": "#5243ac",
+        "button.hoverBackground": "#44397e",
+        "list.activeSelectionBackground": "#5243ac",
+        "list.focusAndSelectionOutline": "#452adf",
+        "list.inactiveSelectionBackground": "#5243ac"
     },
     "tokenColors": [
         {
